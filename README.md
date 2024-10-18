@@ -17,8 +17,11 @@ lsmod | grep 8852cu
 report issue with result of "lsusb"
 
 example
+
 lsusb
+
 Bus 001 Device 012: ID 0bda:c832 Realtek Semiconductor Corp. 802.11ax WLAN Adapter
+
 To support, I need number like "0bda:c832"
 
 # Known Issue
